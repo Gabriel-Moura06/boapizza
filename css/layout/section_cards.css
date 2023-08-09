@@ -1,0 +1,10 @@
+.cards{
+    display: flex;
+    gap: 36px;
+    margin-left: 95px;
+    margin-top: 5px;
+}
+.imagem_pizza{
+    width: 150px;
+    height: auto;
+}

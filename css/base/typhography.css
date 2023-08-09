@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@300&display=swap');
+
+.text-smail{
+    font-size: var(--t-12);
+    font-family: var(--font-family-Montserrat);
+}
+.text-medium{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-size: 700;
+    font-family: var(--font-family-Montserrat);
+}
+.text-large{
+    font-size: var(--t-18);
+    font-family: var(--font-family-Montserrat);
+}
+
+.titulo_principal{
+    font-size: 48px;
+    font-family: var(--font-family-Merienda);
+}
